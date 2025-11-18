@@ -71,5 +71,5 @@ Atuar em **backend**, **dados** e **bancos de dados**, sempre evoluindo minhas h
 ---
 
 ## 📫 Contato
-✉️ Email: **seuemail@exemplo.com**  
+✉️ Email: **eduardooelly@gmail.com**  
 🌐 Portfólio: https://eduardoo-ely.github.io
