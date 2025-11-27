@@ -1,75 +1,105 @@
-# 👋 Olá, eu sou o Eduardo de Paula  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=Eduardo%20de%20Paula&fontSize=60&fontColor=22c55e"/>
+</div>
 
-💻 **Desenvolvedor em evolução** com foco em **Backend, Bancos de Dados e Análise de Dados**.  
-🚀 Apaixonado por criar soluções funcionais, automatizar processos e entender como as coisas funcionam por trás do código.  
-📊 Migrando para a **área de dados** (engenharia / análise / bancos distribuídos).
+<p align="center">
+Desenvolvedor em Transição para Dados
+</p>
+
+<p align="center">
+Node.js • Angular • MongoDB • PostgreSQL • ETL
+</p>
 
 ---
 
-## 🛠️ Tecnologias que utilizo
-### **Backend**
-- Node.js • Express.js  
-- PostgreSQL • MongoDB  
-- Redis • Prisma  
+## 🧬 Sobre Mim
+ Desenvolvedor com base técnica em Node.js, Angular e MongoDB, em transição para a área de dados. Tenho experiência prática com desenvolvimento Full-Stack, mas meu foco atual é migrar para análise, gestão e governança de dados.
 
-### **Frontend**
-- Angular • TypeScript  
-- HTML • CSS  
+- 📊 Análise de Dados  
+- 🗄 Administração de Bancos (DBA)  
+- 🔄 ETL, Pipelines e Integrações  
+- 🔐 Governança de Dados e Qualidade
+- 💻 <a href="https://eduardoo-ely.github.io">Portfólio Oficial</a>
 
-### **Databases / Data**
-- Modelagem de dados  
-- SQL avançado  
-- PostgreSQL  
-- MongoDB  
-- NoSQL vs SQL  
-- Replicação e dblink  
+---
+
+## 🛠️ Tecnologias Principais
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,angular,ts,postgres,mongodb,redis,python&theme=dark" />
+
+</div>
+
+---
+
+## 📦 Tecnologias que Já Trabalhei
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,html,css,js,windows&theme=dark" />
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=eduardoo-ely&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoo-ely&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=eduardoo-ely&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🌌 Gráfico de Atividade
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardoo-ely&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-### 📦 **Reutiliza – Plataforma Ambiental**  
-Aplicação Full-Stack para exibir pontos de coleta, rotas e logística reversa.  
-Inclui mapa, API própria e cluster em nuvem.  
-🔗 **GitHub:** https://github.com/eduardoo-ely/reutiliza
-
----
-
-### 🔔 **Opa! Reminders – Extensão Chrome**  
-Sistema de notificações inteligentes com alarmes, storage e popup.  
-Baseado na Chrome API + JavaScript.  
-🔗 **GitHub:** https://github.com/eduardoo-ely/opa-reminders
-
----
-
-### 🧠 **Estudos de Estruturas de Dados**  
-Implementações de grafos, árvores, heaps e hash tables com resumos e PDFs.  
-🔗 *Em desenvolvimento*
+| Projeto | Stack | Sobre |
+|--------|--------|--------|
+| **📦 Reutiliza** | Angular • Node • Leaflet | Plataforma de logística reversa com mapa e rotas. |
+| **🔔 Opa! Reminders** | JS • Chrome API | Extensão Chrome para lembretes e alarmes inteligentes. |
+| **🗄 DB Distribuídos** | PostgreSQL • Redis | Replicação e sincronização entre bancos. |
 
 ---
 
 ## 💼 Experiência Profissional
 
-### **Suporte Técnico 1 – IXC Soft (Atual)**
-- Atendimento ao cliente e suporte técnico  
-- Automação de processos  
-- Análise de problemas em produção  
-- Consultas em bancos de dados  
-- Experiência com Node.js, Angular, PostgreSQL, MongoDB  
+### 🧩 Suporte Técnico 1 — IXC Soft  
+> Automação, servidores, Mongo/Redis e integrações.
 
-### **Analista de TI – Transportadora Lunardi**
-- Infraestrutura, redes, hardware  
-- Manutenção de servidores  
-- Virtualização e configuração de máquinas  
-- Troubleshooting e gestão básica de ambientes internos  
+### 🖥 Analista de TI — Transportadora Lunardi  
+> Redes, infraestrutura, virtualização e manutenção de servidores.
 
 ---
 
-## 🎯 Objetivo
-Atuar em **backend**, **dados** e **bancos de dados**, sempre evoluindo minhas habilidades técnicas.
+## 🎯 Roadmap de Evolução
+
+- [x] Backend & APIs (Node/Express)
+- [x] Bancos NoSQL (MongoDB)
+- [ ] Python para Dados
+- [ ] ETL & Pipelines
+- [ ] DBA (Tuning / Backup / Recovery)
+- [ ] Governança • LGPD • Data Quality
 
 ---
 
-## 📫 Contato
-✉️ Email: **eduardooelly@gmail.com**  
-🌐 Portfólio: https://eduardoo-ely.github.io
+<div align="center">
+  <p>© 2025 Eduardo de Paula • <a href="https://eduardoo-ely.github.io">Portfólio Oficial</a></p>
+</div>
