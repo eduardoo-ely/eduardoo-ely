@@ -3,39 +3,58 @@
 </div>
 
 <p align="center">
-Desenvolvedor em Transição para Dados
+Data Analyst Jr • IXC Soft
 </p>
 
 <p align="center">
-Node.js • Angular • MongoDB • PostgreSQL • ETL
+MariaDB • Looker • SQL • Python • PostgreSQL • MongoDB
 </p>
 
 ---
 
 ## 🧬 Sobre Mim
- Desenvolvedor com base técnica em Node.js, Angular e MongoDB, em transição para a área de dados. Tenho experiência prática com desenvolvimento Full-Stack, mas meu foco atual é migrar para análise, gestão e governança de dados.
 
-- 📊 Análise de Dados  
-- 🗄 Administração de Bancos (DBA)  
-- 🔄 ETL, Pipelines e Integrações  
+Desenvolvedor com base técnica em Node.js, Angular e MongoDB, atuando como **Data Analyst Jr na IXC Soft**. Combino experiência prática em desenvolvimento Full-Stack com análise de dados no dia a dia — trabalhando com MariaDB e Looker para extração, transformação e visualização de informações estratégicas.
+
+- 📊 Análise de Dados com MariaDB & Looker
+- 🗄 Bancos de Dados Relacionais (DBA em evolução)
+- 🔄 ETL, Pipelines e Integrações
 - 🔐 Governança de Dados e Qualidade
 - 💻 <a href="https://eduardoo-ely.github.io">Portfólio Oficial</a>
 
 ---
 
 ## 🛠️ Tecnologias Principais
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,angular,ts,postgres,mongodb,redis,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,postgres,mongodb,linux,mysql,redis&theme=dark" />
+
+</div>
+
+---
+
+## 📊 Stack de Dados
+
+<div align="center">
+
+| Ferramenta | Nível | Uso |
+|---|---|---|
+| **MariaDB** | Intermediário | Consultas e análises no dia a dia |
+| **Looker** | Em evolução | Dashboards e visualizações |
+| **PostgreSQL** | Intermediário | Bancos relacionais e replicação |
+| **MongoDB** | Intermediário | Bancos NoSQL e consultas |
+| **Python** | Em evolução | Automação e análise de dados |
 
 </div>
 
 ---
 
 ## 📦 Tecnologias que Já Trabalhei
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,git,github,html,css,js,windows&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,nodejs,java,angular,html,css,js,windows&theme=dark" />
 
 </div>
 
@@ -45,26 +64,40 @@ Node.js • Angular • MongoDB • PostgreSQL • ETL
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=eduardoo-ely&show_icons=true&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/eduardoo-ely">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=eduardoo-ely&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+</a>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoo-ely&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/eduardoo-ely">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoo-ely&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" />
+</a>
 
 </div>
 
 ---
 
-## 🔥 Streak
+## 📅 Contribuições
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=eduardoo-ely&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardoo-ely&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
+
+> 💡 **Nota:** Meu foco atual é aprendizado aplicado no trabalho (MariaDB, Looker, SQL no dia a dia na IXC Soft). Commits no GitHub aumentam conforme avanço nos projetos pessoais de dados.
 
 ---
 
-## 🌌 Gráfico de Atividade
+## 🧠 Atualmente Aprendendo
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardoo-ely&theme=tokyo-night&hide_border=true" width="100%"/>
+
+| 📚 Tema | 🔧 Ferramenta | 📍 Status |
+|--------|--------------|----------|
+| SQL Avançado | MariaDB | 🟢 Em uso no trabalho |
+| Business Intelligence | Looker | 🟢 Em uso no trabalho |
+| Python para Dados | Pandas • NumPy | 🟡 Estudando |
+| Visualização | Power BI | 🟡 Estudando |
+| Estruturas de Dados | Python | 🟡 Praticando |
+
 </div>
 
 ---
@@ -81,10 +114,13 @@ Node.js • Angular • MongoDB • PostgreSQL • ETL
 
 ## 💼 Experiência Profissional
 
-### 🧩 Suporte Técnico 1 — IXC Soft  
+### 📊 Data Analyst Jr — IXC Soft
+> Análise de dados com MariaDB e Looker, extração de insights e suporte técnico especializado.
+
+### 🧩 Suporte Técnico 1 — IXC Soft
 > Automação, servidores, Mongo/Redis e integrações.
 
-### 🖥 Analista de TI — Transportadora Lunardi  
+### 🖥 Analista de TI — Transportadora Lunardi
 > Redes, infraestrutura, virtualização e manutenção de servidores.
 
 ---
@@ -93,7 +129,9 @@ Node.js • Angular • MongoDB • PostgreSQL • ETL
 
 - [x] Backend & APIs (Node/Express)
 - [x] Bancos NoSQL (MongoDB)
-- [ ] Python para Dados
+- [x] Análise de Dados (MariaDB • Looker)
+- [ ] Python para Dados (Pandas • NumPy)
+- [ ] Visualização Avançada (Power BI • Tableau)
 - [ ] ETL & Pipelines
 - [ ] DBA (Tuning / Backup / Recovery)
 - [ ] Governança • LGPD • Data Quality
