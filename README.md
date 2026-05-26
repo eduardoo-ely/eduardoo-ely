@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-Data Analyst Jr • IXC Soft
+Data Analyst • IXC Soft
 </p>
 
 <p align="center">
